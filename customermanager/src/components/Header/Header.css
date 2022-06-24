@@ -1,0 +1,14 @@
+.header__nav {
+    margin-right: auto;
+}
+.header__navbar-item {
+    background-color: rgba(164, 161, 161, 0.8);
+    border: none;
+    border-radius: 3px;
+    width: 150px;
+    text-align: center;
+    margin-right: 20px;
+}
+.header__login {
+    margin-left: auto;
+}
